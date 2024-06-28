@@ -1,0 +1,66 @@
+.back{
+    background-color: #000000;
+    width: 100vw;
+}
+.pad{
+    padding-bottom:60px;
+}
+.logo {
+    height: 5px;
+    width: 5px;
+}
+
+.netflix-brand {
+    height: 50px;
+    transition: 0.2s in;
+}
+
+.netflix-brand:hover {
+    transform: scale(1.1);
+}
+.navbar {
+    background-color: #000000;
+    transition: 0.3s linear;
+}
+.photo-1{
+    height:50px;
+}
+.photo-2{
+    width:150px;
+}
+.vid{
+    position: relative;
+    z-index: 1;
+}
+.vid_status{
+    width:100vw;
+}
+.data{
+    position: absolute;
+    z-index: 2;
+}
+.k_c{
+    width:100vw;
+    position:relative;
+    z-index:3;
+    margin-top: 40px;
+}
+.head-1{
+    color:#ffffff;
+    font-size:26px;
+    text-align:left;
+    padding-left:14%;
+    padding-bottom: 20px;
+    font-weight:bolder;
+}
+.k_c_dramas{
+    position:relative;
+    z-index: 3;
+}
+.box-1{
+    margin-bottom:10px;
+    transition: 0.3s ease;
+}
+.box-1:hover{
+    transform: scale(1.2);
+}
